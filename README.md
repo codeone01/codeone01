@@ -1,4 +1,4 @@
-## heeey I'm Eduardo Azevedo, Front-end developer and computer science student at Cesar School!
+## heeey I'm Eduardo Azevedo, Full-Stack developer and computer science student at FIAP!
 <div align="center">
   <a href="https://github.com/codeone01">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=codeone01&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
